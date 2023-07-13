@@ -1,0 +1,16 @@
+{
+  "Employee" : [
+  				{
+  				 "EmpID" 	: "002041",
+  				 "FirstName": "Anantapalli",
+  				 "LastName" : "Jayasri",
+  				 "Role"     : "Developer",
+  			    },
+  			    {
+  				 "EmpID" 	: "002042",
+  				 "FirstName": "Bhupathi",
+  				 "LastName" : "Mohitha",
+  				 "Role"     : "Developer",
+  			    },
+  			   ]
+}
